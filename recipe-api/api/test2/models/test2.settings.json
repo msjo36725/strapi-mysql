@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "test2s",
+  "info": {
+    "name": "test2"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "test2": {
+      "type": "string"
+    }
+  }
+}
