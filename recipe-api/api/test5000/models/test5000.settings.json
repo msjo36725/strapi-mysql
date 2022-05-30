@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "test5000s",
+  "info": {
+    "name": "Test5000"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
